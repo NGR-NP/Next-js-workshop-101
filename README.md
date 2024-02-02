@@ -11,7 +11,7 @@ The workshop is organized into 10 days, each covering specific topics and practi
 
 ### Day-wise Breakdown:
 - [**Day 1**: Introduction to NEXT.js](day-1/README.md)
-- **Day 2:** Routing
+- [**Day 2:** Routing](/day-2)
 - **Day 3:** API routes
 - **Day 4:** Rendering
 - **Day 5:** Data fetching
